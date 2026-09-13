@@ -6,6 +6,7 @@
       {
         "id": "42267d940c6dfcbd",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "0ab98bde9649a6a3",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundations of Project Management.md",
+                "file": "Module 1/Understanding the basics of project management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foundations of Project Management"
+              "title": "Understanding the basics of project management"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "825a64977558f0b4",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "87183624e1aa69c1",
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundations of Project Management.md",
+                "file": "Module 1/Understanding the basics of project management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundations of Project Management.md",
+                "file": "Module 1/Understanding the basics of project management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundations of Project Management.md",
+                "file": "Module 1/Understanding the basics of project management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,12 +217,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ab98bde9649a6a3",
+  "active": "eabd6de0284ba96b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Module 1/Understanding the basics of project management.md",
     "Module 1/Getting started with the program.md",
     "Module 1_ Embarking on a career in project management.md",
-    "Untitled.md",
-    "Module 1",
-    "Foundations of Project Management.md"
+    "Foundations of Project Management.md",
+    "Images/path.png",
+    "Images",
+    "Module 1"
   ]
 }
