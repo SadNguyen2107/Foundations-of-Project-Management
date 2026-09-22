@@ -6,7 +6,6 @@
       {
         "id": "42267d940c6dfcbd",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "0ab98bde9649a6a3",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Module 3/1. Understanding the project life cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "825a64977558f0b4",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "87183624e1aa69c1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "1. Understanding the project life cycle"
             }
           }
         ]
@@ -203,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +202,33 @@
   },
   "active": "0ab98bde9649a6a3",
   "lastOpenFiles": [
-    "Module 1/Understanding the basics of project management.md",
-    "README.md",
-    "Module 1/Getting started with the program.md",
-    "Module 1_ Embarking on a career in project management.md",
+    "Module 3_The project management life cycle and methodologies.md",
+    "Module 3/1. Understanding the project life cycle.md",
+    "Module 2_Becoming an effective project management.md",
+    "Module 3",
     "Foundations of Project Management.md",
+    "README.md",
+    "Module 2/2. Learning more about project manager roles and responsibilities.md",
+    "Module 2/1. Exploring how a project manager adds value.md",
+    "Module 2/3. Acquiring the core skills of a successful project manager.md",
+    "Module 2/4. Review_Becoming an effective project manager.md",
+    "Module 1_ Embarking on a career in project management.md",
+    "PDF Notes/How project managers impact organizations.pdf",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled 3.md",
+    "PDF Notes",
+    "Notes.md",
+    "PDF Notes/Working with cross-functional teams.pdf",
+    "Module 2",
+    "Module 1/3. Learning about careers in project management.md",
+    "Module 1/2. Understanding the basics of project management.md",
+    "Module 1/1. Getting started with the program.md",
+    "Module 1/4. Review Embarking on a career in project management.md",
+    "Images/magnify.png",
+    "Images/scrum_master.png",
+    "Images/progress.png",
     "Images/path.png",
     "Images",
     "Module 1"
